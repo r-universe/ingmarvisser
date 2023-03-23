@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "depmix"]
+	path = depmix
+	url = https://github.com/cran/depmix
+	shallow = true
+	registered = true
+[submodule "depmixS4"]
+	path = depmixS4
+	url = https://github.com/cran/depmixS4
+	shallow = true
+	registered = true
+[submodule "glba"]
+	path = glba
+	url = https://github.com/cran/glba
+	shallow = true
+	registered = true
+[submodule "metatest"]
+	path = metatest
+	url = https://github.com/cran/metatest
+	shallow = true
+	registered = true
